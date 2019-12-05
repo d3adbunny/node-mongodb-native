@@ -24,7 +24,7 @@
     "bson-ext": "^2.0.0"
   },
   "dependencies": {
-    "bson": "^3.3.5",
+    "bson": "^3.0.4",
     "require_optional": "^1.0.1",
     "safe-buffer": "^5.1.2"
   },
